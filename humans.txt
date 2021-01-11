@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Gregor Döhnert info@gregor-doehnert-grafik.de no-twitter
 
 # THANKS
 
